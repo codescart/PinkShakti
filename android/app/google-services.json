@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "143695982039",
+    "project_id": "laadli-49976",
+    "storage_bucket": "laadli-49976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143695982039:android:fa45fe97b2b799ef66ef92",
+        "android_client_info": {
+          "package_name": "com.foundercode.laadli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143695982039-f86e1k8qgp508hbl6o119s6ag0qod5cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.laadli",
+            "certificate_hash": "d74bf455d18ffebcead3d403beff284a004778a7"
+          }
+        },
+        {
+          "client_id": "143695982039-ll4ba15c7ivub80o0krn0q3o2se210d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.laadli",
+            "certificate_hash": "f4fc4752ad1ab0ed66b7378860863d634653a9a0"
+          }
+        },
+        {
+          "client_id": "143695982039-ogb9ccg5ljhov4ccpdqif7pv9rks2btn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.laadli",
+            "certificate_hash": "e2414c9fd476fcc20035fd0492ee1c630902adbc"
+          }
+        },
+        {
+          "client_id": "143695982039-rbtrsap2cfhnsp54o08dftt8s9e2kkuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.laadli",
+            "certificate_hash": "e78b5d5439cc7262ce60904f75e7cc28d64cbb67"
+          }
+        },
+        {
+          "client_id": "143695982039-u59otjaf9u2ln37haggu4mn7iqr6lff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHS2kRhNeIWBCNkfSqnRBHEfauXbe-eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143695982039-u59otjaf9u2ln37haggu4mn7iqr6lff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143695982039:android:c5d940b8b750384b66ef92",
+        "android_client_info": {
+          "package_name": "com.foundercodes.pinkshakti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143695982039-u59otjaf9u2ln37haggu4mn7iqr6lff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHS2kRhNeIWBCNkfSqnRBHEfauXbe-eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143695982039-u59otjaf9u2ln37haggu4mn7iqr6lff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
